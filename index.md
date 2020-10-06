@@ -80,23 +80,23 @@
 
 # [게임시스템 디자인]
 
-## 1. 게임 오브젝트 분해(구성 요소 분석)
-|연번|오브젝트 이름|오브젝트 이미지|
-|:---:|:---:|:---:|
-| 1 |주인공(플레이어)|<img src="./img/표1-1.jpg" width="200" height="200">|
-| 2 |기본 몬스터(슬라임)|<img src="./img/표1-2.jpg" width="200" height="200">|
-| 3 |특수 속성 몬스터|<img src="./img/표1-3.jpg" width="200" height="200">|
-| 4 |문지기(중간 몬스터)|<img src="./img/표1-4.jpg" width="200" height="200">|
-| 5 |최종 보스|<img src="./img/표1-5.jpg" width="200" height="200">|
-| 6 |가시 장애물|<img src="./img/표1-6.jpg" width="200" height="200">|
-| 7 |떨어지는 장애물|<img src="./img/표1-7.jpg" width="200" height="200">|
-| 8 |곡갱이|<img src="./img/표1-8.jpg" width="200" height="200">|
-| 9 |삽|<img src="./img/표1-9.jpg" width="200" height="200">|
-| 10 |던전|<img src="./img/표1-10.jpg" width="200" height="200">|
-| 11 |마을|<img src="./img/표1-11.jpg" width="200" height="200">|
-| 12 |무기 상점|<img src="./img/표1-12.jpg" width="200" height="200">|
-| 13 |훈련소|<img src="./img/표1-13.jpg" width="200" height="200">|
-<br><br>
+## 1. 게임 오브젝트 분해(구성 요소 분석)  
+|연번|오브젝트 이름|오브젝트 이미지|  
+|:---:|:---:|:---:|  
+| 1 |주인공(플레이어)|<img src="./img/표1-1.jpg" width="200" height="200">|  
+| 2 |기본 몬스터(슬라임)|<img src="./img/표1-2.jpg" width="200" height="200">|  
+| 3 |특수 속성 몬스터|<img src="./img/표1-3.jpg" width="200" height="200">|  
+| 4 |문지기(중간 몬스터)|<img src="./img/표1-4.jpg" width="200" height="200">|  
+| 5 |최종 보스|<img src="./img/표1-5.jpg" width="200" height="200">|  
+| 6 |가시 장애물|<img src="./img/표1-6.jpg" width="200" height="200">|  
+| 7 |떨어지는 장애물|<img src="./img/표1-7.jpg" width="200" height="200">|  
+| 8 |곡갱이|<img src="./img/표1-8.jpg" width="200" height="200">|  
+| 9 |삽|<img src="./img/표1-9.jpg" width="200" height="200">|  
+| 10 |던전|<img src="./img/표1-10.jpg" width="200" height="200">|  
+| 11 |마을|<img src="./img/표1-11.jpg" width="200" height="200">|  
+| 12 |무기 상점|<img src="./img/표1-12.jpg" width="200" height="200">|  
+| 13 |훈련소|<img src="./img/표1-13.jpg" width="200" height="200">|  
+<br><br>  
 
 ## 2. 파라미터(속성) 뽑아 보기<br>
 
@@ -168,10 +168,10 @@
 <br>
 
 ### 9) 오브젝트 이름 : 삽
-|속성|속성 값|설명|비고|
-|:---:|:---:|:---:|:---:|
-|데미지|100|플레이어에게 주는 데미지||
-|공격 속도|5|다시 공격을 하는데 까지 걸리는 시간||
+|속성|속성 값|설명|비고|  
+|:---:|:---:|:---:|:---:|  
+|데미지|100|플레이어에게 주는 데미지||  
+|공격 속도|5|다시 공격을 하는데 까지 걸리는 시간||  
 <br>
 
 ### 10) 오브젝트 이름 : 마을
