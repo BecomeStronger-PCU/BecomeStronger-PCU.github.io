@@ -106,6 +106,7 @@
 | 11 |마을|<img src="./img/표1-11.jpg" width="200" height="200">|  
 | 12 |무기 상점|<img src="./img/표1-12.jpg" width="200" height="200">|  
 | 13 |훈련소|<img src="./img/표1-13.jpg" width="200" height="200">|  
+
 <br><br>  
 
 ## 2. 파라미터(속성) 뽑아 보기  
