@@ -483,5 +483,5 @@
 <br>
 
 # [개발작업 일정]
-<img src="./img/개발일정.jpg" width="900" height="500">  
+<img src="./img/개발일정.JPG" width="900" height="500">  
 <br>
