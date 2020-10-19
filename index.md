@@ -470,10 +470,13 @@
 <br>
 
 ## 3. 키보드 이벤트에 대한 흐름도  
-<img src="./img/키보드이벤트.jpg" width="900" height="600">
+<img src="./img/키보드이벤트.jpg" width="900" height="600">  
 <br>
 
 ## 4. 용어정리  
+<img src="./img/용어정리1.jpg" width="900" height="300">  
+<img src="./img/용어정리2.jpg" width="900" height="600">  
+<img src="./img/용어정리3.jpg" width="900" height="600">  
 <br>
 
 # [스토리보드]  
