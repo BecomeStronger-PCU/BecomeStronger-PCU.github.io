@@ -477,9 +477,9 @@
 <br>
 
 ## 3. 용어정리  
-<img src="./img/용어정리1.jpg" width="900" height="300">  
-<img src="./img/용어정리2-1.jpg" width="900" height="600">  
-<img src="./img/용어정리3-1.jpg" width="900" height="600">  
+<img src="./img/용어정리1-2.jpg" width="900" height="300">  
+<img src="./img/용어정리2-2.jpg" width="900" height="600">  
+<img src="./img/용어정리3-2.jpg" width="900" height="600">  
 <br>
 
 # [스토리보드]  
