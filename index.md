@@ -473,7 +473,7 @@
 <br>
 
 ## 2. 키보드 이벤트에 대한 흐름도   
-<img src="./img/키보드이벤트2.jpg" width="900" height="600">  
+<img src="./img/키보드이벤트3.jpg" width="900" height="600">  
 <br>
 
 ## 3. 용어정리  
