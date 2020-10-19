@@ -483,7 +483,7 @@
 <br>
 
 # [스토리보드]  
-<img src="./img/스토리보드.jpg" width="900" height="600">  
+<img src="./img/스토리보드.JPG" width="900" height="600">  
 <br>
 
 # [개발작업 일정]
