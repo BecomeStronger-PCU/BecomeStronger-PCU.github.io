@@ -43,4 +43,4 @@
 <br>
 
 ## 영상  
-<img src="./img/개발1주차.gif" width="600" height="400">  
+![개발1주차](https://user-images.githubusercontent.com/71679870/97879342-38fcee00-1d63-11eb-84ab-d2b0db49700b.gif)  
