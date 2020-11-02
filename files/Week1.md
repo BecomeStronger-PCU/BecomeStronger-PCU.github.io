@@ -43,6 +43,4 @@
 <br>
 
 ## 영상  
-![개발 1주차 영상](./img/개발1주차.gif)  
-
-
+<img src="./img/개발1주차.gif" width="600" height="400">  
