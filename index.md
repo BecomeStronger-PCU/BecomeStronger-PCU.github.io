@@ -26,6 +26,7 @@
 # 개발 진행도
 * [a. 개발 1주차](./files/Week1.md)  
 * [b. 개발 2주차](./files/Week2.md)  
+* [b. 개발 3주차](./files/Week3.md)  
 
 
 <br><br><br>
