@@ -36,4 +36,4 @@
 <br>  
 
 ## 영상  
-![개발2주차](https://user-images.githubusercontent.com/71679870/97879729-ad379180-1d63-11eb-9206-505ddcf1fcb0.gif)  
+![개발3주차](https://user-images.githubusercontent.com/71679870/98509146-0b083400-22a4-11eb-9db7-4d303be3d846.gif)
