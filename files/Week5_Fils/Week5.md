@@ -20,10 +20,6 @@
 <br>  
 
 ## 영상  
-<video controls width="640" height="480">  
 
-    <source src="./files/Week4_Fils/개발4주차.mp4" type="video/mp4">  
+![개발5주차](https://user-images.githubusercontent.com/71679870/100683567-f4915c00-33bb-11eb-829f-0c6415e3186b.gif)  
 
-    Sorry, your browser doesn't support embedded videos.  
-
-</video>  
