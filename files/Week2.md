@@ -33,4 +33,5 @@
 <br>  
 
 ## 영상  
+조금 기다리시면 영상이 나옵니다.  
 ![개발2주차](https://user-images.githubusercontent.com/71679870/97879729-ad379180-1d63-11eb-9206-505ddcf1fcb0.gif)  
