@@ -23,6 +23,7 @@
 - 맵 디자인 => 80%  
 
 ## 영상  
+조금 기다리시면 영상이 나옵니다.  
 
 ![개발6주차](https://user-images.githubusercontent.com/71679870/100683244-4685b200-33bb-11eb-9faa-789cbcf7d994.gif)  
 
