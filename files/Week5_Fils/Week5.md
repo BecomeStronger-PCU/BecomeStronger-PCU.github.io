@@ -20,6 +20,7 @@
 <br>  
 
 ## 영상  
+조금 기다리시면 영상이 나옵니다.  
 
 ![개발5주차](https://user-images.githubusercontent.com/71679870/100683567-f4915c00-33bb-11eb-829f-0c6415e3186b.gif)  
 
