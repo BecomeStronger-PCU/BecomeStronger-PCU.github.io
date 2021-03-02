@@ -31,6 +31,12 @@
 * [d. 개발 5주차](./files/Week5_Fils/Week5.md)  
 * [d. 개발 6주차](./files/Week6_Fils/Week6.md)  
 
+<br>  
+
+# 개발 진행도 (Seezn 2)  
+* [a. 개발 1주차](./files/Week1.md)  
+
+
 <br><br><br>
 
 
